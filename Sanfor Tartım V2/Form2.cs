@@ -25,7 +25,7 @@ namespace Sanfor_Tartım_V2
         int durum = 0;
         public void satirGetir()
         {
-            con = new SqlConnection("Server=192.168.10.250;Database=SentezLive;Uid=sa;Password=boyteks123***;");
+            con = new SqlConnection("Bağlantı stringi");
             cmd = new SqlCommand();
             cmd.Connection = con;
 
