@@ -1,0 +1,11 @@
+C:\Users\Ender\source\repos\Sanfor Tartım V2\Sanfor Tartım V2\bin\Debug\Sanfor Tartım V2.exe
+C:\Users\Ender\source\repos\Sanfor Tartım V2\Sanfor Tartım V2\bin\Debug\Sanfor Tartım V2.pdb
+C:\Users\Ender\source\repos\Sanfor Tartım V2\Sanfor Tartım V2\obj\Debug\Sanfor_Tartım_V2.Form1.resources
+C:\Users\Ender\source\repos\Sanfor Tartım V2\Sanfor Tartım V2\obj\Debug\Sanfor_Tartım_V2.Properties.Resources.resources
+C:\Users\Ender\source\repos\Sanfor Tartım V2\Sanfor Tartım V2\obj\Debug\Sanfor Tartım V2.csproj.GenerateResource.cache
+C:\Users\Ender\source\repos\Sanfor Tartım V2\Sanfor Tartım V2\obj\Debug\Sanfor Tartım V2.csproj.CoreCompileInputs.cache
+C:\Users\Ender\source\repos\Sanfor Tartım V2\Sanfor Tartım V2\obj\Debug\Sanfor Tartım V2.exe
+C:\Users\Ender\source\repos\Sanfor Tartım V2\Sanfor Tartım V2\obj\Debug\Sanfor Tartım V2.pdb
+C:\Users\Ender\source\repos\Sanfor Tartım V2\Sanfor Tartım V2\obj\Debug\Sanfor Tartım V2.csprojAssemblyReference.cache
+C:\Users\Ender\source\repos\Sanfor Tartım V2\Sanfor Tartım V2\obj\Debug\Sanfor_Tartım_V2.Form2.resources
+C:\Users\Ender\source\repos\Sanfor Tartım V2\Sanfor Tartım V2\bin\Debug\Sanfor Tartım V2.exe.config

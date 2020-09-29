@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Sanfor_Tartım_V2.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="yazici" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Argox OS-214 plus series PPLA</Value>
+    </Setting>
+    <Setting Name="comport" Type="System.String" Scope="User">
+      <Value Profile="(Default)">COM6</Value>
+    </Setting>
+    <Setting Name="baglanti" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Server=192.168.10.250;Database=SentezLive;Uid=sa;Password=boyteks123***;</Value>
+    </Setting>
+    <Setting Name="makineid" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">27</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
